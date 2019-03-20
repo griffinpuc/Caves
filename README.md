@@ -2,9 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Python application that creates a 2D underground cave world using cellular automata. The start to a game that was never finished. Made in the summer of 2017 due to boredom.
 
-&nbsp;
-
-[Images](#images)
+View some [images](#images)
 
 ## How it works:
 1. [game.py](https://github.com/griffinpuc/Caves/blob/master/game.py) > The main game loop
