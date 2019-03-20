@@ -5,10 +5,13 @@
 &nbsp;
 
 ## How it works:
-1. [main.py](https://github.com/griffinpuc/Caves/blob/master/main.py) > The main game loop
-2. [terrain_gen.py](https://github.com/griffinpuc/Caves/blob/master/terrain_gen.py) > The cellular automata algorithm
+1. [game.py](https://github.com/griffinpuc/Caves/blob/master/game.py) > The main game loop
+2. [caves.py](https://github.com/griffinpuc/Caves/blob/master/terrain_gen.py) > The cellular automata algorithm
 3. [textures.py](https://github.com/griffinpuc/Caves/blob/master/textures.py) > Texture handler
 4. [map_editor.py](https://github.com/griffinpuc/Caves/blob/master/map_editor.py) > Controls for camera moving and destroying and placing blocks, saving and loading maps
+5. [terrain_gen.py](https://github.com/griffinpuc/Caves/blob/master/terrain_gen.py) > Terrain handler
+
+![caves](https://i.imgur.com/v9z7UMn.png)
 
 &nbsp;
 
